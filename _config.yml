@@ -13,10 +13,13 @@ theme:
   # Header and footer text
   header_text: >
      <p>This sounded like a good idea</p>
+     <p>Still a work in progress</p>
 
   header_text_feature_image:
   footer_text: >
-      Convering up incompetence with a thirst to grow and learn | Software Engineer (Android)
+      <p>As our circle of knowledge expands, so does the circumference of darkness surrounding it.</p>
+
+      <p>- Albert Einstein</p>
 
   # Icons
   rss: false
