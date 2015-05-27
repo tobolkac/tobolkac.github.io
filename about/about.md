@@ -1,12 +1,18 @@
 ---
 layout: page
 title: About
+show-title: false
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Howdy, I'm Clay Tobolka
+----------
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+<p>I am a software developer and a recent graduate of The University of Texas at Austin with a degree in Computer Science and a degree in Economics. I was born, raised, and educated in Austin, Texas.</p>
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+
+<p>Currently I am a Software Engineer (focusing on Android) at Golden Frog in Austin, TX</p>
+> <p>Cyphr | <a href="http://www.goldenfrog.com/cyphr">goldenfrog.com/cyphr</a> | <a href="https://play.google.com/store/apps/details?id=com.goldenfrog.cyphr">Play Store</a></p>
+> <p>VyprVPN | <a href="http://www.goldenfrog.com/vyprvpn">goldenfrog.com/vyprvpn</a> | <a href="https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app">Play Store</a></p>
+
+
